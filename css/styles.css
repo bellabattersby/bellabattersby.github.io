@@ -1,12 +1,12 @@
 body {
-    background-color: rgba(117, 233, 241, 0.87);
-    color: rgb(238, 115, 217);
+    background-color: rgba(240, 148, 217, 0.87);
+    color: rgb(154, 107, 241);
 }
 
 .profile-image {
-    width: 150px;
+    width: 110px;
     height: auto;
     position: absolute;
     top: 10px;
-    right: 16px;
+    left: 230px;
 }
